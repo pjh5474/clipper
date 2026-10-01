@@ -1,8 +1,8 @@
 ---
 paths:
- - "db/**/*.ts"
- - "drizzle/**/*.sql"
- - "lib/clipper/data.ts"
+    -  "db/**/*.ts"
+    -  "drizzle/**/*.sql"
+    -  "lib/clipper/data.ts"
 ---
 
 # Database
